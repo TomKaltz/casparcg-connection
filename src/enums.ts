@@ -5,6 +5,8 @@ export enum TransitionType {
 	Wipe = 'WIPE',
 	Slide = 'SLIDE',
 	Sting = 'STING',
+	Cutfade = 'CUTFADE',
+	Fadecut = 'FADECUT',
 }
 
 export enum TransitionTween {
